@@ -1,0 +1,3 @@
+this is to check the POLL SCM method
+form the jenkins
+UI to test the funtionality.
